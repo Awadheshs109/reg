@@ -1,0 +1,32 @@
+{
+  "signupUsers": [
+    {
+      "name": "Awadhesh Sharma",
+      "Phone": "7571869952",
+      "email": "awadheshs109@gmail.codsm",
+      "password": "sadadadadadadadadad",
+      "id": 1
+    },
+    {
+      "name": "Awadhesh Sharma",
+      "Phone": "7571869952",
+      "email": "awadheshs109@gmail.codsm",
+      "password": "asdfadadadadadadad",
+      "id": 2
+    },
+    {
+      "name": "Awadhesh Sharma",
+      "Phone": "7571869952",
+      "email": "awadheshs109@gmail.codsm",
+      "password": "sadasdadadadadadad",
+      "id": 3
+    },
+    {
+      "name": "Awadhesh Sharma",
+      "Phone": "7571869952",
+      "email": "awadheshs109@gmail.codsm",
+      "password": "adadadadadadadadadad",
+      "id": 4
+    }
+  ]
+}
